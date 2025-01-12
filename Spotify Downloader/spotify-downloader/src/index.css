@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+::placeholder
+{
+  color: rgb(35, 34, 34);
+  opacity: 1;
+}
